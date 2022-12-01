@@ -1,0 +1,76 @@
+.form-check .form-check-input {
+    float: right !important;
+    margin-right: -1.5em !important;
+}
+
+.form-check {
+    padding-right: 1.5em!important;
+}
+
+.marginRightAuto{
+    margin-right: auto;
+}
+
+.backgroundColorLogin{
+    background-color:#edf5fc;
+}
+
+::-webkit-input-placeholder {
+    font-size: 12px!important;
+    font-family: IRANSANS_LIGHT;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    font-size: 12px!important;
+    font-family: IRANSANS_LIGHT;
+}
+::-moz-placeholder {  /* Firefox 19+ */
+    font-size: 12px!important;
+    font-family: IRANSANS_LIGHT;
+}
+.btn {
+    font-size: 14px!important;
+}
+
+.delete-button{
+    background-color: #89043D!important;
+    border-color:#89043D!important; ;
+}
+
+.edit-button{
+    background-color: #1c3041!important;
+    border-color:#1c3041!important; ;
+}
+
+.modal-body{
+    text-align: right !important;
+}
+
+.btn-danger {
+    background-color: #ad1010 !important;
+    border-color: #ad1010 !important;
+}
+
+.btn-success {
+    background-color: #00bfa4 !important;
+    border-color: #00bfa4 !important;
+}
+.btn-primary{
+    background-color: #68b3f5 !important;
+    border-color: #68b3f5 !important;
+}
+
+#content {
+    background-color: #edf5fc;
+}
+
+.form-control {
+    color: #486f8d !important;
+}
+
+.form-control[readonly] {
+    background-color: #edf5fc!important;
+}
+.iconEdit{
+    color:#001627;
+}
